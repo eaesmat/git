@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Rspec",
+      "setup": "sudo gem install rspec",
+      "run": "rspec",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
